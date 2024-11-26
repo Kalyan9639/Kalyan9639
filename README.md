@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalyan9639
 - 👀 I’m interested in playing with AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Github
 
 <!---

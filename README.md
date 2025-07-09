@@ -53,7 +53,7 @@ I'm currently deepening my knowledge in Gen-AI, always seeking to expand my unde
 
 Feel free to reach out if you'd like to collaborate on a project, discuss AI, or just connect!
 
-* **LinkedIn:** [My Linkedin Profile] (https://www.linkedin.com/in/kalyan-sai-prasad(?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* **LinkedIn:** https://www.linkedin.com/in/kalyan-sai-prasad
 ---
 
 
